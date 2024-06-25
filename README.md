@@ -1,0 +1,1 @@
+Python code that opens the camera and marks where it recognizes a face (uses OpenCV)
